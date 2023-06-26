@@ -1,0 +1,7 @@
+{"description":"fuel dev token",
+"image":"https://media.discordapp.net/attachments/1103898106036236288/1122714349325271100/azuldev_gas_station_fuel_logo_4761cb60-d6d7-4d1b-8952-60b44a810254.png?width=670&height=670",
+"attributes":{"itemType":"resource","class":"ammo","tier":1,"rarity":"common","category":"resource"},
+"symbol":"FUEL",
+"name":"dev FUEL",
+"collection":null
+}
