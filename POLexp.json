@@ -1,4 +1,5 @@
 {"description":"POLARIS experience",
 "image":"https://media.discordapp.net/attachments/1121693555891638282/1121693589056008283/PXPstar.png?width=663&height=663",
 "attributes":{"itemType":"resource","class":"exp","tier":1,"rarity":"common","category":"resource"},
-"symbol":"POLXP","name":"Polaris EXP","collection":null,"slots":{"crewSlots":null,"componentSlots":null,"moduleSlots":null},"media":{"qrInstagram":"","qrFacebook":"","sketchfab":"","audio":"","thumbnailUrl":"","gallery":null},"tradeSettings":{"msrp":{"value":0,"currencySymbol":"USDC"}},"deactivated":false,"markets":[{"_id":"61bad1c9d3d4980038939bef","id":"AdL6nGkPe3snPb7TEgSjaN8qCG493iYQqv4DeoCqH53F","quotePair":"ATLAS","serumProgramId":"9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"}],"primarySales":[],"airdrops":[{"_id":"64599198e25a8e0780c4b19e","supply":35701923,"id":1683589467}],"createdAt":"2021-04-20T18:17:07.517Z","updatedAt":"2023-05-09T00:19:36.300Z","mint":"foodQJAztMzX1DKpLaiounNe2BDMds5RNuPC6jsNrDG"}
+"symbol":"PXP","name":"Polaris Experience Points","collection":null
+}
